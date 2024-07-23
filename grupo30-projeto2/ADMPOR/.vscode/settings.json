@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "synchronization.h": "c",
+        "stdlib.h": "c",
+        "process.h": "c",
+        "apsignal.h": "c",
+        "main.h": "c",
+        "compare": "c",
+        "client.h": "c",
+        "signal.h": "c"
+    }
+}
