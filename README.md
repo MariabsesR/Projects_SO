@@ -67,7 +67,7 @@ Limitations
 
     Intermediaries: Currently, only one Intermediary is supported. If multiple Intermediaries are present, they may receive and attempt to deliver the same request, demonstrating the need for process synchronization, which will be addressed in the next phase of the project
 
-************************************************************************************************************************************************************************************************************************************************************
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AdmPor - Port Management System - Project 2
 Overview
 
